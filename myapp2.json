@@ -1,0 +1,11 @@
+{
+	"ID": "myapp2",
+	"Name": "myapp",
+	"Address": "66.55.44.12",
+	"Port": 38090,
+	"check": {
+    		"http": "http://66.55.44.12:38090",
+    		"interval": "10s",
+    		"timeout": "1s"
+   	}
+}
